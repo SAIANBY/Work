@@ -1,0 +1,30 @@
+{	
+	"manifest_version":2,
+	"theme":
+		{
+			"images":
+				{
+					"theme_toolbar":"images\/theme_toolbar.png",
+					"theme_ntp_background":"images\/theme_ntp_background.png",
+					"theme_tab_background":"images\/theme_tab_background.png"
+				},
+			
+			"colors":
+				{
+					"toolbar":[19,165,204],
+					"tab_text":[77,77,77],
+					"tab_background_text":[77,77,77],
+					"bookmark_text":[77,77,77],
+					"ntp_background":[0,216,255],
+					"ntp_text":[77,77,77],
+					"button_background":[0,0,0,0]},
+			"tints":
+				{
+					"buttons":[0.53,1,0.3]},
+			"properties":
+				{
+					"ntp_background_alignment" : "bottom"}
+		},
+			
+			"name":" Celestial dream","version":"1","description":"by SAIANBY"
+}
